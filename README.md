@@ -6,6 +6,8 @@
 
 
 
+
+
 # Top 10 Belly Button Bacteria
 
  Horizontal bar chart to display the top 10 OTUs
@@ -13,10 +15,14 @@
 ![Top10BB_Bacteria](https://github.com/jalainep/belly-button-challenge/assets/143963189/f3dfc4a3-42b1-41b8-a860-7dcec020062c)
 
 
+
+
 # Dropdown Menu
 Dropdown menu displaying demographics for individuals
 
 ![image](https://github.com/jalainep/belly-button-challenge/assets/143963189/fc395523-0e49-428a-b0d9-f1910274e173)
+
+
 
 
 # Bubble Chart
