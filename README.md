@@ -4,11 +4,14 @@
 ![image](https://github.com/jalainep/belly-button-challenge/assets/143963189/5a0810b2-6018-4bc2-8c03-1765a8f6e00b)
 
 
+
+
 # Top 10 Belly Button Bacteria
 
  Horizontal bar chart to display the top 10 OTUs
  
 ![Top10BB_Bacteria](https://github.com/jalainep/belly-button-challenge/assets/143963189/f3dfc4a3-42b1-41b8-a860-7dcec020062c)
+
 
 # Dropdown Menu
 Dropdown menu displaying demographics for individuals
